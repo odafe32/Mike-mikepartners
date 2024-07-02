@@ -1,0 +1,5 @@
+to submit properties
+http://localhost/mike&partners_real_estate2/loginnn.php
+http://localhost/mike&partners_real_estate2/registerrr.php
+
+http://localhost/mike&partners_real_estate2/submitproperty.php
